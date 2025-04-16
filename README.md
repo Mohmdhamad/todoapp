@@ -25,17 +25,7 @@ A simple yet powerful **To-Do App** built with **Flutter** using **BLoC pattern*
 | `intl` | Date formatting |
 | `shared_preferences` / `cache_helper` | Theme mode persistence |
 
----
 
-### 📸 Screenshots
-
-<div align="center">
-  <img src="![Screenshot_20250414-223211](https://github.com/user-attachments/assets/c62aac24-132b-4a3e-b684-0880566687de)
-" width="250" />
-  <img src="![Screenshot_20250414-223222](https://github.com/user-attachments/assets/2cf9642f-8c4f-482c-a2bb-6a8439564a5e)
-" width="250" />
-  
-</div>
 
 ---
 
